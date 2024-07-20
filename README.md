@@ -1,6 +1,6 @@
 # Captcha v1.1
 <h3 align="left">Python files captcha.</h3>
-![Tribes Download](/img/download.png)
+![Download](/img/captcha.png)
 
 Щоб запустити файл вам треба зробити такі дії
 1.Нажміть r+win
